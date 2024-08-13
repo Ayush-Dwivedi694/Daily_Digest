@@ -1,0 +1,139 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Taylor Swift Vienna gig: Teen planned 'explosives and knives' attack",
+    "description": "Austrian officials say the suspect wanted to kill \"a large crowd of people\" in a suicide attack.",
+    "url": "https://www.bbc.co.uk/news/articles/c1k37dm9e0eo",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e97c/live/5f1ad910-557e-11ef-8983-2f675dccb54a.jpg",
+    "publishedAt": "2024-08-08T22:22:17.9577731Z",
+    "content": "\"The terrorist threat has intensified throughout Europe and Austria was and is no exception,\" he said, adding that major concerts are \"often a favourite target of Islamist attackers\".\r\nColdplay are d… [+841 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "ABC News: Trump-Harris agree to first presidential debate",
+    "description": "The debate on ABC News will mark the first time the rivals will square off since Harris became Democrats' presidential nominee",
+    "url": "https://www.bbc.co.uk/news/articles/cy54l4x7d71o",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/06fe/live/ddd65260-55ca-11ef-a002-11033d0201d3.png",
+    "publishedAt": "2024-08-08T21:37:12.5963226Z",
+    "content": "I am looking forward to debating Donald Trump and we have a date of September 10. I hear hes finally committed to it and Im looking forward to it,\" Ms Harris said at the event in Detroit. \r\nTrump deb… [+3378 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "What we know about military records of Walz and Vance",
+    "description": "Walz's military record has been under scrutiny after a series of claims made by veterans and leading Republicans.",
+    "url": "https://www.bbc.co.uk/news/articles/cze5gzr97ewo",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5c06/live/2e6d8e60-5593-11ef-b2d2-cdb23d5d7c5b.jpg",
+    "publishedAt": "2024-08-08T19:22:18.1603952Z",
+    "content": "Mr Vance claimed: When Tim Walz was asked by his country to go to Iraq, you know what he did? He dropped out of the army and allowed his unit to go without him.\r\nSeveral former National Guard colleag… [+1494 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Behind the scenes as Hamas chose its new leader",
+    "description": "The BBC's Rushdi Abualouf witnessed Hamas’s shadowy veterans gather in Qatar to vote for their new chief.",
+    "url": "https://www.bbc.co.uk/news/articles/clyl3yg7wzzo",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/32da/live/274e8b20-559d-11ef-9b2c-85cc6682dfd2.jpg",
+    "publishedAt": "2024-08-08T17:52:15.9724336Z",
+    "content": "They chose Yahya Sinwar, already the group's leader inside Gaza since 2017. The choice may come as a surprise to many, but anyone following his career since Israel released him in the 2011 exchange d… [+1658 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Japan issues 'higher than usual' megaquake risk warning",
+    "description": "The warning comes after a 7.1 magnitude earthquake struck off southern Japan earlier on Thursday.",
+    "url": "https://www.bbc.co.uk/news/articles/c9qgv8pg59ro",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ad15/live/a475f9c0-55a3-11ef-8f0f-0577398c3339.jpg",
+    "publishedAt": "2024-08-08T17:07:13.800291Z",
+    "content": "The plate boundary sits between Suruga Bay in central Japan, and the Hyuganada Sea in Kyushu to the south.\r\nPrevious Nankai Trough earthquakes have left thousands dead. These megaquakes have been rec… [+1117 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Prosecutors say Romanian oligarch paid Hunter Biden for influence",
+    "description": "The president's son is charged with evading taxes while spending millions on a lavish lifestyle.",
+    "url": "https://www.bbc.co.uk/news/articles/cz9wpdwnelno",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/80bc/live/779928c0-559c-11ef-9b2c-85cc6682dfd2.jpg",
+    "publishedAt": "2024-08-08T16:37:13.6332405Z",
+    "content": "According to a court filing made on Wednesday in a Los Angeles federal court, the Romanian national hired Biden for legal work in 2015, at a time when his father was vice-president under then-Preside… [+1680 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Russia-Ukraine war: Fighting in Kursk enters third day, Russia says",
+    "description": "Ukraine says Moscow's \"unequivocal aggression\" is \"root cause\" for military activity inside Russia.",
+    "url": "https://www.bbc.co.uk/news/articles/cy0ngzg9754o",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/082e/live/f3e8e490-556c-11ef-83e3-9df5ffa02a25.jpg",
+    "publishedAt": "2024-08-08T13:07:17.8635029Z",
+    "content": "Mykhailo Podolyak, a long-term aide to President Zelensky added: \"War is war, with its own rules, where the aggressor inevitably reaps corresponding outcomes.\"\r\nRussia's defence ministry said advance… [+1653 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Steve Rosenberg: Shock Kursk incursion won't turn Russians against the war",
+    "description": "The attack on Kursk has led some Russians to call for a deeper military push into Ukraine.",
+    "url": "https://www.bbc.co.uk/news/articles/cy4y3529v7vo",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d030/live/29de6920-556e-11ef-b2d2-cdb23d5d7c5b.jpg",
+    "publishedAt": "2024-08-08T11:07:18.7380756Z",
+    "content": "Russias full-scale invasion of Ukraine was conceived in the Kremlin as a short, sharp military operation. \r\nThe expectation was that it would take a matter of days, a few weeks maximum, for Russia to… [+1851 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Adam Britton: British croc expert jailed for sexual abuse of dogs",
+    "description": "Adam Britton pleaded guilty to 60 charges, which also included four counts of accessing child abuse material.",
+    "url": "https://www.bbc.co.uk/news/articles/c33nv8x64mlo",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/aabe/live/ba952000-554e-11ef-9de0-e17984353d81.jpg",
+    "publishedAt": "2024-08-08T06:37:15.7078642Z",
+    "content": "Born in West Yorkshire, Britton grew up in the UK before moving to Australia more than 20 years ago to work with crocodiles.\r\nWith a PhD in zoology, he had built a global reputation for his expertise… [+1153 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "They went to space for eight days - and could be stuck until 2025",
+    "description": "Two American astronauts face the sudden prospect of spending Christmas and New Year in space.",
+    "url": "https://www.bbc.co.uk/news/articles/cg4yqepr469o",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/775f/live/e07ef050-551e-11ef-8481-7905ff38b187.jpg",
+    "publishedAt": "2024-08-08T02:37:12.4098744Z",
+    "content": "One potential option being considered, they said, is to attach the two astronauts to a mission that is scheduled to launch in September, and return them to earth with that mission in February 2025.\r\n… [+1107 chars]"
+    }
+    ]
+    }
+
+
+    
